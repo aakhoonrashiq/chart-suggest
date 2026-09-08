@@ -1,0 +1,7 @@
+Source,Target,Value
+A,B,100
+B,C,80
+A,C,50
+C,D,70
+B,D,40
+D,E,60
