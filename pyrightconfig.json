@@ -1,0 +1,15 @@
+{
+  "include": [
+    "backend",
+    "tests",
+    "scripts"
+  ],
+  "extraPaths": [
+    "./backend"
+  ],
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Darwin",
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": "none"
+}
